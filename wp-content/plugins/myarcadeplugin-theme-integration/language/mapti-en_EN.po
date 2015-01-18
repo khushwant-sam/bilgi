@@ -1,0 +1,396 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MyArcadePlugin - Theme Integration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-08 14:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Daniel Bakovic <contact@myarcadeplugin.com>\n"
+"Language-Team: MyArcade <contact@myarcadeplugin.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xwin\\htdocs\\wp\\wp-content\\plugins\\myarcadepligin-theme-integration\n"
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/myarcadeplugin-theme-integration.php:91
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/myarcadeplugin-theme-integration.php:101
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:54
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:56
+msgid "Game Categories"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:57
+msgid "Game Category"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:59
+msgid "Search Game Categories"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:60
+msgid "All Game Categories"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:61
+msgid "Parent Game Category"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:62
+msgid "Parent Game Category:"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:63
+msgid "Edit Game Category"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:64
+msgid "Update Game Category"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:65
+msgid "Add New Game Category"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:66
+msgid "New Game Category Name"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:90
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:92
+msgid "Game Tags"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:93
+msgid "Game Tag"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:95
+msgid "Search Game Tags"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:96
+msgid "All Game Tags"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:97
+msgid "Parent Game Tag"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:98
+msgid "Parent Game Tag:"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:99
+msgid "Edit Game Tag"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:100
+msgid "Update Game Tag"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:101
+msgid "Add New Game Tag"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:102
+msgid "New Game Tag Name"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:143
+msgid "Games"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:144
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-permalink-settings.php:89
+msgid "Game"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:148
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:124
+msgid "Edit"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:149
+msgid "Edit Game"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:150
+msgid "New Game"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:151
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:152
+msgid "View Game"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:153
+msgid "Search Games"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:154
+msgid "No Games found"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:155
+msgid "No Games found in trash"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:156
+msgid "Parent Game"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/class-mapti-post-types.php:158
+msgid "This is where you can add new games to your site."
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/mapti-template-functions.php:92
+msgid "Description"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/mapti-template-functions.php:101
+msgid "Instructions"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/mapti-template-functions.php:109
+msgid "Scores"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-menus.php:35
+msgid "Theme Integration"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-permalink-settings.php:38
+msgid "Game permalink base"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-permalink-settings.php:43
+msgid "Game category base"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-permalink-settings.php:50
+msgid "Game tag base"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-permalink-settings.php:65
+msgid "These settings control the permalinks used for games. These settings only apply when <strong>not using \"default\" permalinks above</strong>."
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-permalink-settings.php:85
+msgid "Default"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-permalink-settings.php:94
+msgid "Games base"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-permalink-settings.php:98
+msgid "Games base with category"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-permalink-settings.php:104
+msgid "Custom Base"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-permalink-settings.php:106
+msgid "Enter a custom base to use. A base <strong>must</strong> be set or WordPress will use default instead."
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:47
+#, php-format
+msgid "Game updated. <a href=\"%s\">View Game</a>"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:48
+msgid "Custom field updated."
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:49
+msgid "Custom field deleted."
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:50
+msgid "Game updated."
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:51
+#, php-format
+msgid "Game restored to revision from %s"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:52
+#, php-format
+msgid "Game published. <a href=\"%s\">View Game</a>"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:53
+msgid "Game saved."
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:54
+#, php-format
+msgid "Game submitted. <a target=\"_blank\" href=\"%s\">Preview Game</a>"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:55
+#, php-format
+msgid "Game scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Game</a>"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:56
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:57
+#, php-format
+msgid "Game draft updated. <a target=\"_blank\" href=\"%s\">Preview Game</a>"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:77
+msgid "Image"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:78
+msgid "Name"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:79
+msgid "Categories"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:80
+msgid "Tags"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:81
+msgid "Date"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:124
+msgid "Edit this item"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:128
+msgid "Restore this item from the Trash"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:128
+msgid "Restore"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:130
+msgid "Move this item to the Trash"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:130
+msgid "Trash"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:134
+msgid "Delete this item permanently"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:134
+msgid "Delete Permanently"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:140
+#, php-format
+msgid "Preview &#8220;%s&#8221;"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:140
+msgid "Preview"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:142
+#, php-format
+msgid "View &#8220;%s&#8221;"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-post-type.php:142
+msgid "View"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-settings.php:60
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-settings.php:71
+msgid "Your settings have been saved."
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-settings.php:511
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/class-mapti-admin-settings.php:525
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/settings/class-mapti-settings-general.php:27
+msgid "General"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/settings/class-mapti-settings-general.php:43
+msgid "General Options"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/settings/class-mapti-settings-general.php:46
+msgid "Arcade Archive Page"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/settings/class-mapti-settings-general.php:47
+#, php-format
+msgid "The base page can also be used in your <a href=\"%s\">game permalinks</a>."
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/settings/class-mapti-settings-general.php:57
+msgid "Games Per Page"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/settings/class-mapti-settings-general.php:58
+msgid "Set how many games should be displayed at most."
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/settings/class-mapti-settings-general.php:67
+msgid "Games Per Row"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/settings/class-mapti-settings-general.php:68
+msgid "Set how many games should be displayed per row to fit your theme."
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/settings/class-mapti-settings-general.php:77
+msgid "Game Title Heading"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/settings/class-mapti-settings-general.php:78
+msgid "Select a heading for arcade archive page that best fits your theme."
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/includes/admin/views/html-admin-settings.php:30
+msgid "Save changes"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/templates/content-single-game.php:22
+msgid "Fullscreen"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/templates/fullscreen-game.php:38
+msgid "Go Back To"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/templates/single-game/tabs/description.php:16
+msgid "Game Description"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/templates/single-game/tabs/instructions.php:16
+msgid "Game Instructions"
+msgstr ""
+
+#: C:\xwin\htdocs\wp\wp-content\plugins\myarcadepligin-theme-integration/templates/single-game/tabs/scores.php:16
+msgid "Game Scores"
+msgstr ""
+

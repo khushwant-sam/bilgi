@@ -1,0 +1,128 @@
+
+.topic_com_sides:nth-child(odd){
+	border-right: solid 1px #CCC ;
+	margin-right: 40px;
+	padding-right: 40px;
+	padding-left: 60px;
+}
+.topic_com_sides{
+	width: 40%;
+	position: relative;
+	float: left;
+}
+.comment{
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-bottom: solid 2px #CCC;  
+}
+.comment .popularity {
+	font-size: 12px;
+}
+#container{
+	width: 980px;
+	margin:0 auto;
+	padding: 20px;
+}
+#pub_date{
+	position: relative;float: right;
+}
+.like_current,.dislike_current{
+	cursor: pointer;
+}
+#body{
+	text-align: center;
+}
+
+/* Home page css start here.. */
+
+.content_front{
+	box-shadow:5px 1px 8px -5px rgba(0, 0, 0, 0.176);
+}
+.side_front{
+	box-shadow:5px 1px 8px -5px rgba(0, 0, 0, 0.176);
+}
+.no_shadox{
+	box-shadow: none !important;
+	
+}
+.home_group_item {
+	border: none;
+	border-top: solid 1px #CCC;
+	border-bottom: solid 1px #CCC;
+	border-left: solid 1px #CCC;
+
+}
+.home_group_item:first-child{
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-top:0px;
+}
+.no_bottom_margin{
+	margin-bottom: 0px;
+}
+.full {
+	width: 100%;
+}
+.pagination_pack{
+	text-align: center;
+}
+.pagination_pack ul li a{
+	cursor: pointer;
+}
+
+/* Multilevel Menu css starts here  */
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover>a:after {
+    border-left-color: #fff;
+}
+
+.dropdown-submenu.pull-left {
+    float: none;
+}
+
+.dropdown-submenu.pull-left>.dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+
+/* Multilevel menu css ends here */
+
+/* home page */
+.home_box .badge {
+	border-radius: 0px !important;
+}

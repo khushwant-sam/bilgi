@@ -1,0 +1,48 @@
+/* TABS */
+.myarcade-tabs ul.tabs { list-style:none; padding:0 0 0 1em; margin:20px 0 1.618em; overflow:hidden; position:relative }
+.myarcade-tabs ul.tabs li { border:1px solid #e0dadf; background:#f7f6f7; background:-webkit-gradient(linear,left top,left bottom,from(#f7f6f7),to(#e0dadf)); background:-webkit-linear-gradient(#f7f6f7,#e0dadf); background:-moz-linear-gradient(center top,#f7f6f7 0,#e0dadf 100%); background:-moz-gradient(center top,#f7f6f7 0,#e0dadf 100%); display:inline-block; position:relative; z-index:0; -webkit-border-top-left-radius:4px; -webkit-border-top-right-radius:4px; border-top-left-radius:4px; border-top-right-radius:4px; box-shadow:0 3px 3px rgba(0,0,0,.2),inset 0 1px 0 rgba(255,255,255,.6); margin:0 -5px; padding:0 1em }
+.myarcade-tabs ul.tabs li a { display:inline-block; padding:.5em 0; font-weight:700; color:#5e5e5e; text-shadow:0 1px 0 rgba(255,255,255,.8); text-decoration:none }
+.myarcade-tabs ul.tabs li a:hover { text-decoration:none; color:#777 }
+.myarcade-tabs ul.tabs li.active { background:#fff; z-index:2; border-bottom-color:#fff }
+.myarcade-tabs ul.tabs li.active a { color:inherit; text-shadow:inherit }
+.myarcade-tabs ul.tabs li.active:before { box-shadow:2px 2px 0 #fff }
+.myarcade-tabs ul.tabs li.active:after { box-shadow:-2px 2px 0 #fff }
+.myarcade-tabs ul.tabs li:after,.myarcade-tabs ul.tabs li:before { border:1px solid #e0dadf; position:absolute; bottom:-1px; width:5px; height:5px; content:" " }
+.myarcade-tabs ul.tabs li:before { left:-6px; -webkit-border-bottom-right-radius:4px; -moz-border-bottom-right-radius:4px; border-bottom-right-radius:4px; border-width:0 1px 1px 0; box-shadow:2px 2px 0 #e0dadf }
+.myarcade-tabs ul.tabs li:after { right:-6px; -webkit-border-bottom-left-radius:4px; -moz-border-bottom-left-radius:4px; border-bottom-left-radius:4px; border-width:0 0 1px 1px; box-shadow:-2px 2px 0 #e0dadf }
+.myarcade-tabs ul.tabs:before { position:absolute; content:" "; width:100%; bottom:0; left:0; border-bottom:1px solid #e0dadf; z-index:1 }
+.myarcade-tabs .panel { margin:0 0 2em; padding:0 }
+/* Pagination */
+.mapti_navigation { text-align: center; margin: 10px 0 }
+.mapti_navigation .page-numbers { padding: 2px 4px; margin:0px 2px }
+.mapti_navigation .current { font-weight: 700 }
+.mapti_navigation .prev, .mapti_navigation .next { border:none }
+/* Game boxes */
+.game-section-box { display: table; margin: auto }
+.game-grid .game-item { width: 120px; float: left; margin: 0px 10px 20px }
+.game-grid .first { clear: both }
+.game-grid .game-thumb-wrapper { width: 120px; height: 100px }
+.game-grid .game-item .game-thumb-wrapper { margin: 0px 0px 5px }
+.game-grid .game-thumb-wrapper { position: relative; background: none repeat scroll 0% 0% rgb(0, 0, 0); overflow: hidden; vertical-align: bottom; display: inline-block }
+.game-thumb-wrapper .game-link { text-align: center; white-space: nowrap; word-break: normal }
+.game-thumb-wrapper .game-img { width: 120px; height: 100px }
+.game-grid .game-thumb-wrapper img { width: 120px; height: 100px; }
+.game-thumb-wrapper .game-img img, .game-thumb-wrapper .vertical-align { display: inline-block; vertical-align: middle }
+.game-thumb-wrapper .game-img .vertical-align { height: 100% }
+.game-grid .game-item .game-thumb-wrapper .overlay { background-image: url("../images/icon-play-32.png"); }
+.game-thumb-wrapper .overlay { position: absolute; border: 0px none; top: 0px; left: 0px; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); background-repeat: no-repeat; background-position: center center; opacity: 0; transition: all 0.25s ease 0s; }
+.game-thumb-wrapper:hover .overlay { cursor:pointer; z-index:999; opacity:1 }
+.game-item .ie .game-thumb-wrapper .overlay{visibility:hidden;}
+.game-item .ie .game-thumb-wrapper:hover .overlay{visibility:visible;}
+.game-grid .game-title { margin: 0 }
+.game-data div { margin: 0 }
+/** Stats */
+.game-grid .game-item .game-meta, .game-grid .game-item .stats { color: rgb(170, 170, 170); line-height: 20px }
+.game-grid .game-item .stats .views { float:left; margin-right: 10px; padding-left: 18px; background: url("../images/joystick.png") no-repeat 0 0 }
+.game-grid .game-item .stats .views .count { font-size: 11px }
+.game-grid .post-ratings { float:right; width: auto }
+.game-grid .post-ratings img { border: none; box-shadow: none }
+/** Game Page */
+.game-wrapper { text-align: center }
+.game-wrapper .fullscreen { float: right; text-align: right; padding-left: 20px; background: url("../images/fullscreen.png") no-repeat 0 0; margin-bottom: 5px }
+.game-wrapper .fullscreen div { font-size: 13px; line-height: 16px; height: 16px }

@@ -1,0 +1,11 @@
+/*.mapti #mainform label > input[type="radio"] {
+  display: none;
+}
+.mapti #mainform label > input[type="radio"] + img {
+  cursor: pointer;
+  border: 2px solid transparent;
+}
+.mapti #mainform label > input[type="radio"]:checked + img {
+  border: 2px solid #f00;
+}*/
+

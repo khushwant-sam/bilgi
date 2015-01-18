@@ -1,0 +1,2 @@
+[10-Jan-2015 11:56:27 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user 'someka'@'localhost' (using password: NO) in /home/someka/public_html/bilgi/wp-content/plugins/gd-star-rating-master/gdragon/gd_functions.php on line 429
+[10-Jan-2015 11:56:27 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/someka/public_html/bilgi/wp-content/plugins/gd-star-rating-master/gdragon/gd_functions.php on line 429

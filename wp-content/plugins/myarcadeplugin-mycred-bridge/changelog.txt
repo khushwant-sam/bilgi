@@ -1,0 +1,11 @@
+v1.1.0 - 2014-09-12
+  - New: Compatibility with Multiple Point Types
+
+v1.0.2 - 2014-02-26
+  - Fix: MyArcadePlugin action parameters
+
+v1.0.1 - 2014-02-14
+  - Updated MyCRED compatibility
+
+v1.0.0 - 2013-08-26
+  - Initial Release
